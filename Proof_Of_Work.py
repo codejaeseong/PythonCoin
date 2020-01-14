@@ -26,4 +26,4 @@ while True:   # loop to verify end
 		print('Mining Success!')
 		break
 	else:
-		i=i+1  # if answer is wong, another SEED chellenge
+		i=i+1  # if answer is wong, try another SEED
