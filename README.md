@@ -1,4 +1,4 @@
 # ironcoin
-crypto currency to python
+Python Version crypto-currency 
 
-Bitcoin clone coding for python
+Bitcoin clone coding from python
