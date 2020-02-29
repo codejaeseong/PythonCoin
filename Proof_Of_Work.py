@@ -1,7 +1,7 @@
 import random
 import hashlib
 
-WORD = 'ironcoin'  
+WORD = 'pythoncoin'  # just word
 WORD = hashlib.sha256(WORD.encode())
 WORD = WORD.hexdigest()  # make genesis hash
 
