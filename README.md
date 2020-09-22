@@ -1,4 +1,4 @@
 # PythonCoin
 Python Version crypto-currency 
 
-Bitcoin clone coding from python
+Bitcoin structure learning using Python
